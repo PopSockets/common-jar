@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.sunketa.cueme</groupId>
-  <artifactId>sunketa-ms-locationservice</artifactId>
+  <groupId>com.sunketa</groupId>
+  <artifactId>sunketa-commons-filters</artifactId>
   <versioning>
     <release>0.0.1</release>
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20210107102011</lastUpdated>
+    <lastUpdated>20210107102528</lastUpdated>
   </versioning>
 </metadata>
